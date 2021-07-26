@@ -7,9 +7,9 @@ Portfólio público
 O controle de tarefas de projeto será realizado no Github
 ## Ícones
 
-:package: nova funcionalidade
-:up: atualização
-:beetle: correção de uso
-:checkered_flag: release
+ - :package: nova funcionalidade
+ - :up: atualização
+ - :beetle: correção de uso
+ - :checkered_flag: release
 
 
