@@ -33,10 +33,25 @@
     right: 15rem;
 }
 
+
 .line{
     background-color: #ffffff;
     height: .1rem;
     box-shadow:  0.1rem 0.1rem 1px #000000;
+    transition: transform 1s;
+}
+
+.show-menu #line1{
+    transform: rotate(45deg) translate(0.9rem,0.9rem);
+}
+
+.show-menu #line2{
+    visibility: hidden;
+    opacity: 0;
+}
+
+.show-menu #line3{
+    transform: rotate(-45deg) translate(-.09rem,-.009rem);
 }
 
 header{
