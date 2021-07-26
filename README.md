@@ -10,6 +10,6 @@ O controle de tarefas de projeto será realizado no Github
 :packpage: nova funcionalidade
 :up: atualização
 :beatle: correção de uso
-:checkered_flag:release
+:checkered_flag: release
 
 
